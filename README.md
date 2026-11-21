@@ -168,3 +168,7 @@ those of the course version. What changed:
   validated `Config`, a seed for reproducible runs, pre-run warnings, a
   `Results` object that can be reloaded later, and the notebook.
 - **Tests.** A more thorough pytest suite checks, among others, that every force is the gradient of its energy, that velocity Verlet conserves energy and that the thermostat holds the temperature.
+
+## License
+
+[MIT](LICENSE) © Olivier Meiler, Justin Hen
